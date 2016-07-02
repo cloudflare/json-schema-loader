@@ -1,6 +1,6 @@
 {
   "name": "json-schema-loader",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Webpack loader that resolves Json Schema references.",
   "license": "MIT",
   "homepage": "https://github.com/tajo/json-schema-loader#readme",

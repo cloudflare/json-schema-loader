@@ -8,7 +8,7 @@ npm install json-schema-loader --save
 
 ## Description
 
-Webpack loader that resolves both internal and external [json schema](json-schema.org) references (`$ref` properties). The loader uses [json-schema-ref-parser](https://github.com/BigstickCarpet/json-schema-ref-parser) to resolve references. Based on [@pr0da/json-schema-loader](https://github.com/pr0da/json-schema-loader).
+Webpack loader that resolves both internal and external [json schema](json-schema.org) references (`$ref` properties). The loader uses [json-schema-ref-parser](https://github.com/BigstickCarpet/json-schema-ref-parser) to resolve references. It supports both JSON and YAML. Based on [@pr0da/json-schema-loader](https://github.com/pr0da/json-schema-loader).
 
 ## Usage
 
