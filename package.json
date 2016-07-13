@@ -2,7 +2,7 @@
   "name": "json-schema-loader",
   "version": "0.0.2",
   "description": "Webpack loader that resolves Json Schema references.",
-  "license": "MIT",
+  "license": "BSD-3-Clause",
   "homepage": "https://github.com/tajo/json-schema-loader#readme",
   "author": "Vojtech Miksu <vojtech@miksu.cz>",
   "main": "./lib/loader.js",
