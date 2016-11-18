@@ -30,3 +30,9 @@ module: {
 ```js
 var resolvedSchema = require('./schema.json');
 ```
+
+### Options
+
+#### `useSource: boolean`
+
+This loader normally passes the RefParser the `resourcePath`, not the source.  If you want to chain loaders, make sure to set `useSource=true`.
