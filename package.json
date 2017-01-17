@@ -1,6 +1,6 @@
 {
   "name": "json-schema-loader",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "Webpack loader that resolves Json Schema references.",
   "license": "BSD-3-Clause",
   "homepage": "https://github.com/cloudflare/json-schema-loader#readme",
