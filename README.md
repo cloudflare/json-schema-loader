@@ -1,5 +1,15 @@
 # Json Schema Loader
 
+While still used by the likewise-deprecated `doca` package, for the new `@cloudflare/doca`
+package, this package has been replaced by `@cloudflare/json-schema-ref-loader` in
+the [json-schema-tools](https://github.com/cloudflare/json-schema-tools) repository.
+It relies on several general-purpose JSON Schema utility packages that are also present
+in that repository.
+
+Depending on your use case, either this package or the new one may be more suitable.
+
+----
+
 This package is part of the [doca](https://github.com/cloudflare/doca) suite.  Please file any issues at the [doca repository](https://github.com/cloudflare/doca/issues)
 
 ## Installation
